@@ -1,4 +1,4 @@
-# Vue 3 + Vite
+# DND App
 
 This is a DND app using Vite, Vue.js and Vuetify  
 
